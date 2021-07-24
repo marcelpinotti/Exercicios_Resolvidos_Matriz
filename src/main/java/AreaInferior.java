@@ -53,7 +53,7 @@ public class AreaInferior {
             System.out.println(String.format( "A soma de todos os valores do triângulo da área inferior é: %.1f" , soma));
         } else if (O == 'M'){
             soma = somaUm/6;
-            System.out.println(String.format( "A multiplicação de todos os valoresdo triângulo da área inferior é: %.1f" , soma));
+            System.out.println(String.format( "A multiplicação de todos os valores do triângulo da área inferior é: %.1f" , soma));
         }
     }
 }
