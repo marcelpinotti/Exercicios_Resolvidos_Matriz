@@ -2,7 +2,8 @@
 
 **Matriz** é uma tabela organizada em linhas e colunas no formato l x c, onde l representa o número de linhas (horizontal) e c o número de colunas (vertical), sendo a função da matriz o relacionamento entre dados numéricos. 
 
-<h3>Matriz Quadrada
+<h3>Matriz Quadrada</h3>
+
 
 As matrizes podem ser definidas de diferentes tipos, a que foi sugerida nos exercícios é a *matriz quadrada*. A Matriz Quadrada é definida como matriz onde o número de linhas e colunas são iguais, exemplo, matriz quadrada de 2 x 2.
 
